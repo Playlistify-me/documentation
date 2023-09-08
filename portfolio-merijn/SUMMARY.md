@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Wat is dit portfolio?](README.md)
