@@ -1,3 +1,4 @@
 # Table of contents
 
-* [User stories](README.md)
+* [Readme](README.md)
+* [User stories](user-stories.md)
