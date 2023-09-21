@@ -1,6 +1,28 @@
 # User stories
 
-* Als Spotify-luisteraar kan ik mijn Spotify account koppelen aan Playlistify, zodat deze samen kunnen werken.
+* Als Spotify-luisteraar kan ik mijn afspeellijsten inzien, zodat ik de keuze kan maken welke ik wil samenvoegen.
+  * Ik kan mijn Spotify account koppelen
+  * Van elke afspeellijst is de titel, afbeelding, en het aantal tracks te zien
+  * Ik kan door de lijst met afspeellijsten heen scrollen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Als Spotify-luisteraar kan ik afspeellijsten samenvoegen, zodat ik deze tegelijk kan luisteren.
 * Als Spotify-luisteraar wil ik de mogelijkheid hebben om meerdere Spotify-afspeellijsten te selecteren, zodat ik deze samen kan voegen.
 * Als Spotify-luisteraar kan ik een naam kunnen geven aan de nieuwe afspeellijst, zodat ik deze makkelijk kan herkennen.
