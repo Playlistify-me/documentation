@@ -6,6 +6,7 @@
 ## IP
 
 * [Wat is Playlistify?](ip/wat-is-playlistify.md)
+* [Hoe kan je Playlistify gebruiken?](ip/hoe-kan-je-playlistify-gebruiken.md)
 * [Gebruikte technologieën](ip/gebruikte-technologieen.md)
 * [Java + Spring Boot](ip/java-+-spring-boot.md)
 * [Spring JPA + Hibernate & Flyway](ip/spring-jpa-+-hibernate-and-flyway.md)
