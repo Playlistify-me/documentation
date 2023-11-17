@@ -1,3 +1,24 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introductie](README.md)
+* [Koppeling leerdoelen](koppeling-leerdoelen.md)
+
+## IP
+
+* [Wat is Playlistify?](ip/wat-is-playlistify.md)
+* [Gebruikte technologieën](ip/gebruikte-technologieen.md)
+* [Java + Spring Boot](ip/java-+-spring-boot.md)
+* [Spring JPA + Hibernate & Flyway](ip/spring-jpa-+-hibernate-and-flyway.md)
+* [CI workflow](ip/ci-workflow.md)
+* [CD workflow](ip/cd-workflow.md)
+* [Docker](ip/docker.md)
+
+## GP
+
+* [Wat is Het Leffe Circuit?](gp/wat-is-het-leffe-circuit.md)
+* [De opdracht](gp/de-opdracht.md)
+* [Gebruikte technologieën](gp/gebruikte-technologieen.md)
+* [Agile & Scrum](gp/agile-and-scrum.md)
+* [Web Scraper](gp/web-scraper.md)
+* [NestJS +  Prisma](gp/nestjs-+-prisma.md)
+* [Docker](gp/docker.md)
