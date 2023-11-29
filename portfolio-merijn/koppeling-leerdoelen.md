@@ -8,7 +8,7 @@ In onderstaande tabel is te vinden wat mijn bewijzen/opgeleverde producten te zi
 | Software Quality              | [CI workflow](ip/ci-workflow.md), [Testing & Quality](ip/testing-and-quality.md)                                     | Beginning           |
 | Agile Method                  | [Agile & Scrum](gp/agile-and-scrum.md)                                                                               | Beginning           |
 | CI/CD                         | [CI](ip/ci-workflow.md) & [CD](ip/cd-workflow.md) workflow, [Docker (IP)](ip/docker.md), [Docker (GP)](gp/docker.md) | Orienting           |
-| Cultural differences & ethics | [Inclusiviteit analyse](gp/inclusiviteit-analyse.md), Vertaal functionaliteit Leffe Circuit                          | Undefined           |
-| Requirements & design         | [Requirements & user stories](gp/requirements-and-user-stories.md)                                                   | Undefined           |
-| Business processes            | [Business processes](gp/business-processen.md)                                                                       | Undefined           |
+| Cultural differences & ethics | [Inclusiviteit analyse](gp/inclusiviteit-analyse.md), Vertaal functionaliteit Leffe Circuit                          | Orienting           |
+| Requirements & design         | [Requirements & user stories](gp/requirements-and-user-stories.md)                                                   | Beginning           |
+| Business processes            | [Business processes](gp/business-processen.md)                                                                       | Beginning           |
 | Professional                  | Dit portfolio & documentatie                                                                                         | Orienting           |
