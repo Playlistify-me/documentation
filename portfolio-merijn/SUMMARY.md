@@ -24,3 +24,4 @@
 * [Gebruikte technologieën](gp/gebruikte-technologieen.md)
 * [Agile & Scrum](gp/agile-and-scrum.md)
 * [Web Scraper](gp/web-scraper.md)
+* [Documentatie overdracht 29/01/2024](gp/documentatie-overdracht-29-01-2024.md)
