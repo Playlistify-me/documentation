@@ -16,5 +16,3 @@ Voor de specifieke technische werking refereer ik naar de rest van dit portfolio
 * [Spring JPA + Hibernate & Flyway](spring-jpa-+-hibernate-and-flyway.md)
 * [CI](ci-workflow.md) & [CD](cd-workflow.md) workflows
 * [Docker](docker.md)
-
-Voor een gebruiksaanwijzing verwijs ik je naar de volgende pagina: [Hoe kan je Playlistify gebruiken?](hoe-kan-je-playlistify-gebruiken.md)

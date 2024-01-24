@@ -4,11 +4,11 @@ In onderstaande tabel is te vinden wat mijn bewijzen/opgeleverde producten te zi
 
 | Leerdoel                      | Product/bewijs                                                                                                           | Huidige beoordeling |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| Web Application               | [Java + Spring Boot](ip/java-+-spring-boot.md), [NestJS + Prisma](broken-reference)                                      | Beginning           |
-| Software Quality              | [CI workflow](ip/ci-workflow.md), [Testing & Quality](ip/testing-and-quality.md)                                         | Beginning           |
-| Agile Method                  | [Agile & Scrum](gp/agile-and-scrum.md)                                                                                   | Beginning           |
-| CI/CD                         | [CI](ip/ci-workflow.md) & [CD](ip/cd-workflow.md) workflow, [Docker (IP)](ip/docker.md), [Docker (GP)](broken-reference) | Orienting           |
-| Cultural differences & ethics | [Inclusiviteit analyse](broken-reference), Vertaal functionaliteit Leffe Circuit                                         | Orienting           |
-| Requirements & design         | [Requirements & user stories](gp/requirements-and-user-stories.md)                                                       | Beginning           |
-| Business processes            | [Business processes](gp/business-processen.md)                                                                           | Beginning           |
-| Professional                  | Dit portfolio & documentatie                                                                                             | Orienting           |
+| Web Application               | [Java + Spring Boot](ip/java-+-spring-boot.md), [NestJS + Prisma](broken-reference)                                      | Proficient          |
+| Software Quality              | [CI workflow](ip/ci-workflow.md), [Testing & Quality](broken-reference)                                                  | Proficient          |
+| Agile Method                  | [Agile & Scrum](gp/agile-and-scrum.md)                                                                                   | Proficient          |
+| CI/CD                         | [CI](ip/ci-workflow.md) & [CD](ip/cd-workflow.md) workflow, [Docker (IP)](ip/docker.md), [Docker (GP)](broken-reference) | Proficient          |
+| Cultural differences & ethics | [TICT Scan](gp/tict-scan.md), Vertaal functionaliteit Leffe Circuit                                                      | Proficient          |
+| Requirements & design         | [Requirements & user stories](gp/requirements-and-user-stories.md)                                                       | Proficient          |
+| Business processes            | [Business processes](gp/business-processen.md)                                                                           | Proficient          |
+| Professional                  | Dit portfolio & documentatie                                                                                             | Proficient          |
