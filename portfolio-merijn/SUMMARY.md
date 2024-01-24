@@ -25,5 +25,3 @@
 * [Agile & Scrum](gp/agile-and-scrum.md)
 * [Web Scraper](gp/web-scraper.md)
 * [NestJS +  Prisma](gp/nestjs-+-prisma.md)
-* [Docker](gp/docker.md)
-* [Inclusiviteit analyse](gp/inclusiviteit-analyse.md)

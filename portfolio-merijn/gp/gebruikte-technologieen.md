@@ -18,6 +18,10 @@ Wij hebben een gehoste [MySQL](https://www.mysql.com/) database welke er voor zo
 
 ## Overig
 
+### Webscraper
+
+Wij maken gebruik van [Cheerio](https://cheerio.js.org/) voor het scrapen van HTML. Cheerio is een uitbreiding op jQuery, waarmee je, doormiddel van CSS selectors, door de HTML kan browsen.
+
 ### Versiebeheer
 
 Wij hebben gekozen voor [Github](https://github.com/) voor ons versiebeheer. Github is gratis, en de features die wij nodig hebben zijn accessible zonder een paywall. Ook kunnen wij hiermee gebruik maken van Github Actions, waardoor wij CI en CD workflows kunnen implementeren.
