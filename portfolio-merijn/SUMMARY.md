@@ -24,4 +24,3 @@
 * [Gebruikte technologieën](gp/gebruikte-technologieen.md)
 * [Agile & Scrum](gp/agile-and-scrum.md)
 * [Web Scraper](gp/web-scraper.md)
-* [NestJS +  Prisma](gp/nestjs-+-prisma.md)
